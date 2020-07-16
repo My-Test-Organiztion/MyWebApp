@@ -28,6 +28,11 @@ namespace Test_001.Controllers
             return View();
         }
 
+        public IActionResult MyContent()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
