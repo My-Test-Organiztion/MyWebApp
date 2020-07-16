@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Kingston\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\Repos\\exilus4\\MyWebApp\\Test_001\\Test_001.csproj",
+      "projectUniqueName": "C:\\Users\\Kingston\\Documents\\MyWebApp\\Test_001\\Test_001.csproj",
       "projectName": "Test_001",
-      "projectPath": "D:\\Source\\Repos\\exilus4\\MyWebApp\\Test_001\\Test_001.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\Repos\\exilus4\\MyWebApp\\Test_001\\obj\\",
+      "projectPath": "C:\\Users\\Kingston\\Documents\\MyWebApp\\Test_001\\Test_001.csproj",
+      "packagesPath": "C:\\Users\\Kingston\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kingston\\Documents\\MyWebApp\\Test_001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kingston\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
