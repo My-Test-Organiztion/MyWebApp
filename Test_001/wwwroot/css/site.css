@@ -33,6 +33,12 @@ html {
   html {
     font-size: 16px;
   }
+  #sidebar {
+      margin-left: -250px;
+  }
+  #sidebar.active {
+      margin-left: 0;
+  }
 }
 
 .border-top {
